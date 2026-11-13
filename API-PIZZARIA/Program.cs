@@ -1,5 +1,6 @@
 using API_PIZZARIA.Contexts;
-
+using API_PIZZARIA.Interface;
+using API_PIZZARIA.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +10,8 @@ builder.Services.AddDbContext<PizzariaContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Pizzaria")));
 
 builder.Services.AddControllers();
+
+builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
 
 var app = builder.Build();
 
