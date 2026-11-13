@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|c:\\users\\48877723866\\source\\repos\\escolaapi\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|solutionrelative:repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|c:\\users\\48877723866\\source\\repos\\escolaapi\\interfaces\\icursorepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|solutionrelative:interfaces\\icursorepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|c:\\users\\48877723866\\source\\repos\\escolaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|c:\\users\\48877723866\\source\\repos\\escolaapi\\escolaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|solutionrelative:escolaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|c:\\users\\48877723866\\source\\repos\\escolaapi\\contexts\\escolacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|solutionrelative:contexts\\escolacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|c:\\users\\48877723866\\source\\repos\\escolaapi\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|solutionrelative:models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|c:\\users\\48877723866\\source\\repos\\escolaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|c:\\users\\48877723866\\source\\repos\\escolaapi\\models\\especialidadeprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36A5882-1F39-13BE-C55E-D9F442085AAE}|EscolaAPI.csproj|solutionrelative:models\\especialidadeprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EscolaAPI.http",
+              "DocumentMoniker": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\EscolaAPI.http",
+              "RelativeDocumentMoniker": "EscolaAPI.http",
+              "ToolTip": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\EscolaAPI.http",
+              "RelativeToolTip": "EscolaAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-12T23:23:47.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CursoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\Repositories\\CursoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CursoRepository.cs",
+              "ToolTip": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\Repositories\\CursoRepository.cs",
+              "RelativeToolTip": "Repositories\\CursoRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T22:56:06.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICursoRepsitory.cs",
+              "DocumentMoniker": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\Interfaces\\ICursoRepsitory.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICursoRepsitory.cs",
+              "ToolTip": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\Interfaces\\ICursoRepsitory.cs",
+              "RelativeToolTip": "Interfaces\\ICursoRepsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T22:42:08.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EscolaContext.cs",
+              "DocumentMoniker": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\Contexts\\EscolaContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\EscolaContext.cs",
+              "ToolTip": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\Contexts\\EscolaContext.cs",
+              "RelativeToolTip": "Contexts\\EscolaContext.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:11:47.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-05T22:57:42.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\Models\\Professor.cs",
+              "RelativeToolTip": "Models\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:52:09.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EspecialidadeProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\Models\\EspecialidadeProfessor.cs",
+              "RelativeDocumentMoniker": "Models\\EspecialidadeProfessor.cs",
+              "ToolTip": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\Models\\EspecialidadeProfessor.cs",
+              "RelativeToolTip": "Models\\EspecialidadeProfessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:50:11.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\48877723866\\source\\repos\\EscolaAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T00:23:33.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

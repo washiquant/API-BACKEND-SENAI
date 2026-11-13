@@ -1,0 +1,13 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  }.
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "Escola": "Server=(localdb)\\MSSQLLocalDB;Database=Escola;Trusted_Connection=True;TrustServerCertificate=True;"
+    
+  }
+}
